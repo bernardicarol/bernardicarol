@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 
+
+![](https://media3.giphy.com/media/c76IJLufpNwSULPk77/giphy.webp?cid=82a1493bu1a1greeee45a2c63agkyy8318ql609v11jm1xji&ep=v1_gifs_trending&rid=giphy.webp&ct=g)
 
 <!--
 **bernardicarol/bernardicarol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
